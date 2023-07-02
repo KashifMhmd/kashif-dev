@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kashif-dev/static/css/main.d07a1c37.css",
+    "main.js": "/kashif-dev/static/js/main.8af35915.js",
+    "index.html": "/kashif-dev/index.html",
+    "main.d07a1c37.css.map": "/kashif-dev/static/css/main.d07a1c37.css.map",
+    "main.8af35915.js.map": "/kashif-dev/static/js/main.8af35915.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d07a1c37.css",
+    "static/js/main.8af35915.js"
+  ]
+}
